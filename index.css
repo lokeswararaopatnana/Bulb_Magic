@@ -1,0 +1,38 @@
+#pr{
+    color: crimson;
+    background-color: whitesmoke;
+    border: 5px solid rgb(240, 225, 228);
+    box-shadow: 0px 0px 99px rgb(134, 116, 119);
+    border-radius: 15px;
+}
+#bulb{
+    align-items: center;
+    padding-left: 50%;
+}
+button{
+    display: inline-block;
+    margin-left: 50%;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid dodgerblue;
+    border-radius: 18px;
+    color: dodgerblue;
+    font-weight: bold;
+}
+.exa{
+    margin-bottom: 2px;
+}
+button:hover{
+    color: whitesmoke;
+    background-color: crimson;
+    border: none;
+    font-weight: bold;
+}
+h2{
+    margin-left: 50%;
+    color: crimson;
+}
+.magic{
+    border: 1px solid whitesmoke;
+    box-shadow: 0px 0px 50px gray;
+}
